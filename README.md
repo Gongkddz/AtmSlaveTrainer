@@ -22,8 +22,7 @@ creates a simple graphical user interface using the Tkinter library, making it e
 
 1. 每日账户内的存款金额收取10%的利息；</br>Daily interest of 10% is applied to the deposit amount in the account.
 
-1.
-用户可以办理取款业务，银行随机在0-9之间生成一个校验码，用户在不知情的情况下输入一个校验码，若相同则取款成功，取款时收取50%的服务费；</br>
+1. 用户可以办理取款业务，银行随机在0-9之间生成一个校验码，用户在不知情的情况下输入一个校验码，若相同则取款成功，取款时收取50%的服务费；</br>
 Users can perform withdrawal transactions. The bank generates a random verification code between 0 and 9. Users input a
 verification code without knowing the generated code. If the codes match, the withdrawal is successful. A service fee of
 50% is charged for withdrawals.
@@ -69,8 +68,7 @@ verification code without knowing the generated code. If the codes match, the wi
    dynamic, the dominator may set financial goals and requirements, while the ATM slave focuses on fulfilling these
    demands and satisfying the dominator's needs. This behavior is based on mutual respect, understanding, and clear
    agreements between participants.
-3.
-性癖（Paraphilia）是指一种特殊的性兴趣或性欲望，与传统的性行为、对象或方式不同。性癖经常与非常规或非常规的性幻想、行为或对象相关联。性癖是一种个体的心理特质，可能是出于它们对特定对象或行为的吸引、刺激、想象或满足。然而，对于一些性癖，参与者可能需要确保行为的合法性、同意性和安全性。
+3. 性癖（Paraphilia）是指一种特殊的性兴趣或性欲望，与传统的性行为、对象或方式不同。性癖经常与非常规或非常规的性幻想、行为或对象相关联。性癖是一种个体的心理特质，可能是出于它们对特定对象或行为的吸引、刺激、想象或满足。然而，对于一些性癖，参与者可能需要确保行为的合法性、同意性和安全性。
 </br>Paraphilia refers to a specific sexual interest or desire that deviates from traditional sexual behaviors, objects,
 or modes. Paraphilias are often associated with unconventional or non-normative sexual fantasies, behaviors, or objects.
 Paraphilia is a psychological trait of an individual, driven by their attraction, stimulation, imagination, or
